@@ -1,0 +1,16 @@
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\bin\Debug\Otopark2.exe.config
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\bin\Debug\Otopark2.exe
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\bin\Debug\Otopark2.pdb
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\bin\Debug\EntityFramework.dll
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\bin\Debug\EntityFramework.xml
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.Form1.resources
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.Properties.Resources.resources
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.csproj.GenerateResource.cache
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.csproj.CopyComplete
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.exe
+C:\Users\fatih\source\repos\OtoparkOtomasyon\Otopark2\obj\Debug\Otopark2.pdb
